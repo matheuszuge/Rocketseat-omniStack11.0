@@ -10,7 +10,13 @@ A Rocketseat é conhecida por oferecer cursos de desenvolvimento web e tecnologi
 <br/>
 <strong>React Router:</strong> Roteamento de aplicativos React para navegação entre diferentes páginas e rotas dentro de um aplicativo web.
 
+## Licença
+
+Este projeto está sob a Licença [MIT](https://opensource.org/licenses/MIT).
+
+
 <br/>
 <br/>
 
 ![Certificado](https://github.com/matheuszuge/OmniStack11.0/assets/52630140/5c130a98-9f9b-43cd-8c87-e9bb396488dc)
+
