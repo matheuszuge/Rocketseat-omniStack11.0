@@ -1,7 +1,7 @@
 <h1>Repositorio referente a curso realizado pela Rocketseat</h1>
 A Rocketseat é conhecida por oferecer cursos de desenvolvimento web e tecnologias modernas, incluindo JavaScript para desenvolvimento de front-end e back-end, além do framework React para criação de interfaces de usuário
 <br/><br/>
-<h2>Feactures abordadas</h2>
+<h2>Tecnologias abordadas</h2>
 <strong> JavaScript Fundamentals:</strong> Fundamentos da linguagem JavaScript, incluindo variáveis, tipos de dados, estruturas de controle de fluxo (como loops e condicionais), funções, objetos e manipulação do DOM (Document Object Model).
 <br/><br/>
 <strong>Node.js:</strong> Introdução ao ambiente de execução Node.js para JavaScript fora do navegador. manipulação de arquivos, criação de servidores web, e utilização de pacotes npm (Node Package Manager).
